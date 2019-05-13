@@ -10,6 +10,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", privileged: false, inline: $script
   config.vm.provision "ansible_local", run: "always" do |ansible|
     ansible.compatibility_mode = "2.0"
+    ansible.config_file = "/home/vagrant/cloudbox/ansible.cfg"
     ansible.inventory_path = "/home/vagrant/cloudbox/inventories/local"
     ansible.limit = "all"
     ansible.playbook = "/home/vagrant/cloudbox/cloudbox.yml"
