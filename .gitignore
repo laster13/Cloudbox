@@ -13,6 +13,8 @@
 /cloudbox.retry
 
 ### Cloudbox ###
+/host_vars/*
+!/host_vars/.keep
 /ansible.cfg
 /accounts.yml
 /settings.yml

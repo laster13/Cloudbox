@@ -13,7 +13,7 @@
   include_role:
     name: cloudflare
   vars:
-    subdomain: plexpy
+    subdomain: "{{ plexpy_subdomain }}"
   when: cloudflare_enabled
 
 - name: Stop and remove any existing container
@@ -43,9 +43,9 @@
     env:
       PUID: "{{ uid }}"
       PGID: "{{ gid }}"
-      VIRTUAL_HOST: "plexpy.{{ user.domain }}"
+      VIRTUAL_HOST: "{{ plexpy_subdomain }}.{{ user.domain }}"
       VIRTUAL_PORT: 8181
-      LETSENCRYPT_HOST: "plexpy.{{ user.domain }}"
+      LETSENCRYPT_HOST: "{{ plexpy_subdomain }}.{{ user.domain }}"
       LETSENCRYPT_EMAIL: "{{ user.email }}"
       ADVANCED_GIT_BRANCH: nightly
       TZ: "{{ tz }}"
