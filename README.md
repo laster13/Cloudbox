@@ -4,10 +4,9 @@
 [![Website: https://cloudbox.works](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?colorB=177DC1&label=website&style=for-the-badge)](https://cloudbox.works)
 [![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
 <br />
-[![Wiki: http://cloudbox.wiki](https://img.shields.io/badge/Wiki-http%3A%2F%2Fcloudbox.wiki-blue.svg?style=for-the-badge&colorB=177DC1&label=wiki)](http://cloudbox.wiki)
-[![Discord: https://discord.io/cloudbox](https://img.shields.io/discord/381077432285003776.svg?colorB=177DC1&label=discord&style=for-the-badge)](https://discord.io/cloudbox)
-[![Reddit: https://reddit.com/r/Cloudbox](https://img.shields.io/badge/Reddit-%2Fr%2Fcloudbox-blue.svg?colorB=177DC1&label=reddit&style=for-the-badge)](https://reddit.com/r/Cloudbox)
-<br />
+[![Wiki: http://cloudbox.wiki](https://img.shields.io/badge/Wiki-gray.svg?style=for-the-badge)](http://cloudbox.wiki)
+[![Discord: https://discord.io/cloudbox](https://img.shields.io/badge/Discord-gray.svg?style=for-the-badge)](https://discord.io/cloudbox)
+[![Reddit: https://reddit.com/r/Cloudbox](https://img.shields.io/badge/Reddit-gray.svg?style=for-the-badge)](https://reddit.com/r/Cloudbox)
 [![Changelog.md](https://img.shields.io/badge/Changelog-gray.svg?style=for-the-badge)](CHANGELOG.md)
 [![Contributing.md](https://img.shields.io/badge/Contributing-gray.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Credits.md](https://img.shields.io/badge/Credits-gray.svg?style=for-the-badge)](CREDITS.md)
