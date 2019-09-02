@@ -2,8 +2,8 @@
 
 <br /><br />
 [![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?colorB=177DC1&label=website&style=for-the-badge)](https://cloudbox.works)
-[![wiki](https://img.shields.io/badge/Wiki-http%3A%2F%2Fcloudbox.wiki-blue.svg?style=for-the-badge&colorB=177DC1&label=wiki)](http://cloudbox.wiki)
 <br />
+[![wiki](https://img.shields.io/badge/Wiki-http%3A%2F%2Fcloudbox.wiki-blue.svg?style=for-the-badge&colorB=177DC1&label=wiki)](http://cloudbox.wiki)
 [![discord](https://img.shields.io/discord/381077432285003776.svg?colorB=177DC1&label=discord&style=for-the-badge)](https://discord.io/cloudbox)
 [![reddit](https://img.shields.io/badge/Reddit-%2Fr%2Fcloudbox-blue.svg?colorB=177DC1&label=reddit&style=for-the-badge)](https://reddit.com/r/Cloudbox)
 <br />
