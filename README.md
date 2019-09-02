@@ -1,7 +1,7 @@
 <br /><img src="https://raw.githubusercontent.com/Cloudbox/assets/master/images/readme/Cloudbox-logo_dark.png" width="600">
 
 <br /><br />
-[![Website: https://cloudbox.works](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?colorB=177DC1&label=website&style=for-the-badge)](https://cloudbox.works)
+[![Website: https://cloudbox.works](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?style=for-the-badge&colorB=177DC1&label=website)](https://cloudbox.works)
 <br />
 [![Wiki: http://cloudbox.wiki](https://img.shields.io/badge/Wiki-gray.svg?style=for-the-badge)](http://cloudbox.wiki)
 [![Discord: https://discord.io/cloudbox](https://img.shields.io/badge/Discord-gray.svg?style=for-the-badge)](https://discord.io/cloudbox)
@@ -10,13 +10,13 @@
 [![Contributing.md](https://img.shields.io/badge/Contributing-gray.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Credits.md](https://img.shields.io/badge/Credits-gray.svg?style=for-the-badge)](CREDITS.md)
 <br />
-[![GitHub latest version](https://img.shields.io/github/release/cloudbox/cloudbox.svg?colorB=177DC1&label=latest%20version&style=for-the-badge)](https://github.com/cloudbox/cloudbox/releases)
-[![GitHub latest version (date)](https://img.shields.io/github/release-date/cloudbox/cloudbox.svg?colorB=177DC1&label=latest%20version%20(date)&style=for-the-badge)](https://github.com/cloudbox/cloudbox/releases)
-[![AppVeyor](https://img.shields.io/appveyor/ci/Cloudbox/Cloudbox/develop.svg?colorB=177DC1&label=appveyor&style=for-the-badge)](https://ci.appveyor.com/project/Cloudbox/Cloudbox)
+[![GitHub: Latest version](https://img.shields.io/github/release/cloudbox/cloudbox.svg?style=for-the-badge&colorB=177DC1&label=latest%20version&)](https://github.com/cloudbox/cloudbox/releases)
+[![GitHub: Latest version date](https://img.shields.io/github/release-date/cloudbox/cloudbox.svg?style=for-the-badge&colorB=177DC1&label=latest%20version%20(date))](https://github.com/cloudbox/cloudbox/releases)
+[![AppVeyor](https://img.shields.io/appveyor/ci/Cloudbox/Cloudbox/develop.svg?style=for-the-badge&colorB=177DC1&label=appveyor)](https://ci.appveyor.com/project/Cloudbox/Cloudbox)
 <br />
-[![GitHub commits since latest version](https://img.shields.io/github/commits-since/Cloudbox/Cloudbox/latest/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/cloudbox/cloudbox/compare/HEAD...develop)
-[![GitHub last commit (develop)](https://img.shields.io/github/last-commit/Cloudbox/Cloudbox/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/Cloudbox/Cloudbox/commits/develop)
-[![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
+[![GitHub: Commits since latest version](https://img.shields.io/github/commits-since/Cloudbox/Cloudbox/latest/develop.svg?style=for-the-badge&colorB=177DC1)](https://github.com/cloudbox/cloudbox/compare/HEAD...develop)
+[![GitHub: Last commit date (develop)](https://img.shields.io/github/last-commit/Cloudbox/Cloudbox/develop.svg?style=for-the-badge&colorB=177DC1)](https://github.com/Cloudbox/Cloudbox/commits/develop)
+[![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=for-the-badge&colorB=177DC1&label=license)](LICENSE.md)
 
 
 Cloudbox is an Ansible-based solution for rapidly deploying a Docker containerized cloud media server. 
