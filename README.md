@@ -3,6 +3,8 @@
 <br /><br />
 [![Website: https://cloudbox.works](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?colorB=177DC1&label=website&style=for-the-badge)](https://cloudbox.works)
 <br />
+[![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
+<br />
 [![Wiki: http://cloudbox.wiki](https://img.shields.io/badge/Wiki-gray.svg?style=for-the-badge)](http://cloudbox.wiki)
 [![Discord: https://discord.io/cloudbox](https://img.shields.io/badge/Discord-gray.svg?style=for-the-badge)](https://discord.io/cloudbox)
 [![Reddit: https://reddit.com/r/Cloudbox](https://img.shields.io/badge/Reddit-gray.svg?style=for-the-badge)](https://reddit.com/r/Cloudbox/)
@@ -16,7 +18,8 @@
 <br />
 [![GitHub commits since latest version](https://img.shields.io/github/commits-since/Cloudbox/Cloudbox/latest/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/cloudbox/cloudbox/compare/HEAD...develop)
 [![GitHub last commit (develop)](https://img.shields.io/github/last-commit/Cloudbox/Cloudbox/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/Cloudbox/Cloudbox/commits/develop)
-
+<br />
+[![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
 
 
 Cloudbox is an Ansible-based solution for rapidly deploying a Docker containerized cloud media server. 
