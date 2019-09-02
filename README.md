@@ -8,9 +8,9 @@
 [![Discord: https://discord.io/cloudbox](https://img.shields.io/discord/381077432285003776.svg?colorB=177DC1&label=discord&style=for-the-badge)](https://discord.io/cloudbox)
 [![Reddit: https://reddit.com/r/Cloudbox](https://img.shields.io/badge/Reddit-%2Fr%2Fcloudbox-blue.svg?colorB=177DC1&label=reddit&style=for-the-badge)](https://reddit.com/r/Cloudbox)
 <br />
-[![Changelog.md](https://img.shields.io/badge/Changelog-CHANGELOG.md-blue.svg?colorB=177DC1&label=changelog&style=for-the-badge)](CHANGELOG.md)
-[![Contributing.md](https://img.shields.io/badge/Contributing-CONTRIBUTING.md-blue.svg?colorB=177DC1&label=contributing&style=for-the-badge)](CONTRIBUTING.md)
-[![Credits.md](https://img.shields.io/badge/Credits-CREDITS.md-blue.svg?colorB=177DC1&label=credits&style=for-the-badge)](CREDITS.md)
+[![Changelog.md](https://img.shields.io/badge/Changelog-gray.svg?style=for-the-badge)](CHANGELOG.md)
+[![Contributing.md](https://img.shields.io/badge/Contributing-gray.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![Credits.md](https://img.shields.io/badge/Credits-gray.svg?style=for-the-badge)](CREDITS.md)
 <br />
 [![GitHub latest version](https://img.shields.io/github/release/cloudbox/cloudbox.svg?colorB=177DC1&label=latest%20version&style=for-the-badge)](https://github.com/cloudbox/cloudbox/releases)
 [![GitHub latest version (date)](https://img.shields.io/github/release-date/cloudbox/cloudbox.svg?colorB=177DC1&label=latest%20version%20(date)&style=for-the-badge)](https://github.com/cloudbox/cloudbox/releases)
