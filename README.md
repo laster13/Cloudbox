@@ -16,7 +16,6 @@
 <br />
 [![GitHub commits since latest version](https://img.shields.io/github/commits-since/Cloudbox/Cloudbox/latest/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/cloudbox/cloudbox/compare/HEAD...develop)
 [![GitHub last commit (develop)](https://img.shields.io/github/last-commit/Cloudbox/Cloudbox/develop.svg?colorB=177DC1&style=for-the-badge)](https://github.com/Cloudbox/Cloudbox/commits/develop)
-<br />
 [![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
 
 
