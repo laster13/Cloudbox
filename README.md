@@ -5,10 +5,12 @@
 [![wiki](https://img.shields.io/badge/Wiki-http%3A%2F%2Fcloudbox.wiki-blue.svg?style=flat-square&colorB=177DC1&label=wiki)](http://cloudbox.wiki)
 [![discord](https://img.shields.io/discord/381077432285003776.svg?colorB=177DC1&label=discord&style=flat-square)](https://discord.io/cloudbox)
 [![reddit](https://img.shields.io/badge/Reddit-%2Fr%2Fcloudbox-blue.svg?colorB=177DC1&label=reddit&style=flat-square)](https://reddit.com/r/Cloudbox)
+<br />
 [![license: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=flat-square)](LICENSE.md)
 [![changelog](https://img.shields.io/badge/Changelog-CHANGELOG.md-blue.svg?colorB=177DC1&label=changelog&style=flat-square)](CHANGELOG.md)
 [![contributing](https://img.shields.io/badge/Contributing-CONTRIBUTING.md-blue.svg?colorB=177DC1&label=contributing&style=flat-square)](CONTRIBUTING.md)
 [![credits](https://img.shields.io/badge/Credits-CREDITS.md-blue.svg?colorB=177DC1&label=credits&style=flat-square)](CREDITS.md)
+<br />
 [![latest version](https://img.shields.io/github/release/cloudbox/cloudbox.svg?colorB=177DC1&label=latest%20version&style=flat-square)](https://github.com/cloudbox/cloudbox/releases)
 [![commits since](https://img.shields.io/github/commits-since/Cloudbox/Cloudbox/latest/develop.svg?colorB=177DC1&style=flat-square)](https://github.com/cloudbox/cloudbox/compare/HEAD...develop)
 [![last commit (develop)](https://img.shields.io/github/last-commit/Cloudbox/Cloudbox/develop.svg?colorB=177DC1&style=flat-square)](https://github.com/Cloudbox/Cloudbox/commits/develop)
