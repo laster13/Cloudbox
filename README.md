@@ -3,8 +3,6 @@
 <br /><br />
 [![Website: https://cloudbox.works](https://img.shields.io/badge/Website-https%3A%2F%2Fcloudbox.works-blue.svg?colorB=177DC1&label=website&style=for-the-badge)](https://cloudbox.works)
 <br />
-[![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?colorB=177DC1&label=license&style=for-the-badge)](LICENSE.md)
-<br />
 [![Wiki: http://cloudbox.wiki](https://img.shields.io/badge/Wiki-gray.svg?style=for-the-badge)](http://cloudbox.wiki)
 [![Discord: https://discord.io/cloudbox](https://img.shields.io/badge/Discord-gray.svg?style=for-the-badge)](https://discord.io/cloudbox)
 [![Reddit: https://reddit.com/r/Cloudbox](https://img.shields.io/badge/Reddit-gray.svg?style=for-the-badge)](https://reddit.com/r/Cloudbox/)
