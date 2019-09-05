@@ -39,3 +39,7 @@ gpu:
 hetzner_nfs:
   vlan_id: 4000
   mount_client: 3
+openvpn:
+  subdomain: vpn
+  tcp_port: 9443
+  udp_port: 53
