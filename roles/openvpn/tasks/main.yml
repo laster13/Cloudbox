@@ -34,16 +34,12 @@
     capabilities:
       - NET_ADMIN
     published_ports:
-      - "127.0.0.1:943:943"
+      - "943:943"
       - "{{ openvpn.tcp_port }}:{{ openvpn.tcp_port }}"
       - "{{ openvpn.udp_port }}:{{ openvpn.udp_port }}/udp"
     env:
       PUID: "{{ uid }}"
       PGID: "{{ gid }}"
-      VIRTUAL_HOST: "{{ openvpn.subdomain|default('vpn',true) }}.{{ user.domain }}"
-      VIRTUAL_PORT: 943
-      LETSENCRYPT_HOST: "{{ openvpn.subdomain|default('vpn',true) }}.{{ user.domain }}"
-      LETSENCRYPT_EMAIL: "{{ user.email }}"
     volumes:
       - "/etc/localtime:/etc/localtime:ro"
       - "/opt/openvpn:/config"
